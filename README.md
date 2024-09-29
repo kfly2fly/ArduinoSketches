@@ -8,6 +8,19 @@ This repository contains a collection of Arduino scripts I've coded while workin
 - **Purpose**: Learning and experimenting with Arduino programming
 - **Content**: Scripts for various components and projects included in the kit
 
+<div align="center">
+<img src="./public/arduino-1.png">
+</div>
+<div align="center">
+<img src="./public/arduino-2.png">
+</div>
+<div align="center">
+<img src="./public/arduino-3.png">
+</div>
+<div align="center">
+<img src="./public/arduino-4.png">
+</div>
+
 ## List of Projects
 
 1. Add Libraries and Open Serial Monitor
